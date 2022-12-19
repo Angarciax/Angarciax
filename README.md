@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angarciax
 - 👀 I’m interested in software development and cybersecurity
-- 🌱 I’m currently learning Unity development
+- 🌱 I’m currently learning networking Unity games development
 - 📫 To reach me send me an email.
 
 <!---
